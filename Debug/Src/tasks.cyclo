@@ -1,0 +1,4 @@
+tasks.c:13:6:idle_task	1
+tasks.c:21:6:task0	1
+tasks.c:32:6:task1	1
+tasks.c:43:6:task2	1

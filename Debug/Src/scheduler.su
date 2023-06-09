@@ -1,0 +1,13 @@
+../Src/scheduler.c:21:6:scheduler_init	24	static,ignoring_inline_asm
+../Src/scheduler.c:46:6:add_task	32	static
+../Src/scheduler.c:57:6:init_SysTick	16	static
+../Src/scheduler.c:71:6:init_stack	16	static
+../Src/scheduler.c:80:29:switch_to_psp	0	static,ignoring_inline_asm
+../Src/scheduler.c:89:11:set_dummy_stack_frame	24	static
+../Src/scheduler.c:113:6:SysTick_Handler	8	static
+../Src/scheduler.c:122:29:PendSV_Handler	0	static,ignoring_inline_asm
+../Src/scheduler.c:150:6:log_scheduler_state	4	static
+../Src/scheduler.c:167:6:unblock_and_choose_task	24	static
+../Src/scheduler.c:201:6:block_task	16	static
+../Src/scheduler.c:210:6:schedule_task	16	static
+../Src/scheduler.c:217:6:HardFault_Handler	16	static

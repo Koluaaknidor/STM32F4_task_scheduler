@@ -1,0 +1,7 @@
+"./Src/led.o"
+"./Src/main.o"
+"./Src/scheduler.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/tasks.o"
+"./Startup/startup_stm32f411vetx.o"

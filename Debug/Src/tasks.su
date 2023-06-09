@@ -1,0 +1,4 @@
+../Src/tasks.c:13:6:idle_task	4	static
+../Src/tasks.c:21:6:task0	8	static
+../Src/tasks.c:32:6:task1	8	static
+../Src/tasks.c:43:6:task2	8	static

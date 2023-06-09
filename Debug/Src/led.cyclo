@@ -1,0 +1,3 @@
+led.c:11:6:led_init_all	1
+led.c:42:6:led_on	1
+led.c:49:6:led_off	1
